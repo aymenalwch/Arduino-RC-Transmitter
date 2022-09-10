@@ -1,1 +1,1 @@
-# Arduino RC tTransmitter and Reciever based on the nrf24
+# Arduino RC Transmitter and Reciever based on the nrf24
